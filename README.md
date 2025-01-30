@@ -1,10 +1,5 @@
 # API de exemplo para contexto de pagamentos
 
-<p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot Logo" width="400" />
-  </a>
-</p>
 
 Esta é uma API desenvolvida em Java utilizando o framework Spring Boot. Ela foi criada para cadastrar pagamentos.
 
