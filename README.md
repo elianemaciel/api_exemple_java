@@ -1,8 +1,8 @@
 # API de exemplo para contexto de pagamentos
 
 <p align="center">
-  <a href="https://nestjs.com" target="_blank">
-    <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS Logo" width="400" />
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot Logo" width="400" />
   </a>
 </p>
 
