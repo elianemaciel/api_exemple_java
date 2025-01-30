@@ -1,16 +1,21 @@
-# Nome da API
+# API de exemplo para contexto de pagamentos
 
-Esta é uma API desenvolvida em Java utilizando o framework Spring Boot. Ela foi criada para [descreva o propósito da API, por exemplo, "gerenciar usuários e suas tarefas"].
+<p align="center">
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS Logo" width="400" />
+  </a>
+</p>
+
+Esta é uma API desenvolvida em Java utilizando o framework Spring Boot. Ela foi criada para cadastrar pagamentos.
 
 ## Tecnologias Utilizadas
 
-- **Java 17** (ou a versão que você está utilizando)
-- **Spring Boot 3.x** (ou a versão que você está utilizando)
+- **Java 17**
+- **Spring Boot 3.x**
 - **Spring Data JPA** - Para persistência de dados
-- **H2 Database** (ou outro banco de dados, como MySQL, PostgreSQL, etc.)
+- **H2 Database**
 - **Maven** - Para gerenciamento de dependências
-- **Swagger** - Para documentação da API (opcional)
-- **Lombok** - Para reduzir boilerplate code (opcional)
+- **Swagger** - Para documentação da API
 
 ## Pré-requisitos
 
@@ -18,7 +23,6 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 - **Java JDK 17** (ou superior)
 - **Maven** (recomendado)
-- **Docker** (opcional, se estiver utilizando containers)
 
 ## Configuração do Projeto
 
